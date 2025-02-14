@@ -146,7 +146,7 @@ def pre_download_models():
 def setup_models():
     """Setup and pre-download all required models."""
     # Pre-download additional models
-    pre_download_models()
+    #pre_download_models()
 
     # Existing setup logic for LatentSync models
     cur_dir = get_ext_dir()
